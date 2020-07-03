@@ -9,5 +9,5 @@
 import Foundation
 
 public enum ServicesEndPoint: String {
-	case albumFetchURL = "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/100/explicit.json"
+	case albumFetchURL = "https://rss.itunes.apple.com/api/v1/us/apple-music/top-albums/all/100/explicit.json"
 }
