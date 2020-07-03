@@ -1,0 +1,24 @@
+{
+    "feed": {
+        "title": "Coming Soon",
+        "id": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.json",
+        "author": {
+            "name": "iTunes Store",
+            "uri": "http://wwww.apple.com/us/itunes/"
+        },
+        "links": [
+            {
+                "self": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.json"
+            },
+            {
+                "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=1396220241&app=music"
+            }
+        ],
+        "copyright": "Copyright © 2018 Apple Inc. Все права защищены.",
+        "country": "us",
+        "icon": "http://itunes.apple.com/favicon.ico",
+        "updated": "2020-07-02T01:56:58.000-07:00",
+        "results": [
+		]
+    }
+}

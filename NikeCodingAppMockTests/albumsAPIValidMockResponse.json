@@ -1,0 +1,268 @@
+{
+    "feed": {
+        "title": "Coming Soon",
+        "id": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.json",
+        "author": {
+            "name": "iTunes Store",
+            "uri": "http://wwww.apple.com/us/itunes/"
+        },
+        "links": [
+            {
+                "self": "https://rss.itunes.apple.com/api/v1/us/apple-music/coming-soon/all/10/explicit.json"
+            },
+            {
+                "alternate": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=1396220241&app=music"
+            }
+        ],
+        "copyright": "Copyright © 2018 Apple Inc. Все права защищены.",
+        "country": "us",
+        "icon": "http://itunes.apple.com/favicon.ico",
+        "updated": "2020-07-02T01:56:58.000-07:00",
+        "results": [
+            {
+                "artistName": "Dixie Chicks",
+                "id": "1499733036",
+                "releaseDate": "2020-05-01",
+                "name": "Gaslighter",
+                "kind": "album",
+                "copyright": "℗ 2020 Columbia Records, a Division of Sony Music Entertainment",
+                "artistId": "635633",
+                "contentAdvisoryRating": "Explicit",
+                "artistUrl": "https://music.apple.com/us/artist/dixie-chicks/635633?app=music",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/6d/a8/b4/6da8b446-96fc-ce4d-8dd3-97ba5821dac4/886448263777.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "6",
+                        "name": "Country",
+                        "url": "https://itunes.apple.com/us/genre/id6"
+                    },
+                    {
+                        "genreId": "34",
+                        "name": "Music",
+                        "url": "https://itunes.apple.com/us/genre/id34"
+                    }
+                ],
+                "url": "https://music.apple.com/us/album/gaslighter/1499733036?app=music"
+            },
+            {
+                "artistName": "Prince",
+                "id": "1520460179",
+                "releaseDate": "2020-09-25",
+                "name": "Sign O' The Times (Super Deluxe)",
+                "kind": "album",
+                "artistId": "155814",
+                "contentAdvisoryRating": "Explicit",
+                "artistUrl": "https://music.apple.com/us/artist/prince/155814?app=music",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/c4/69/c9/c469c979-2e34-499f-192d-23042667323f/603497845668.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "14",
+                        "name": "Pop",
+                        "url": "https://itunes.apple.com/us/genre/id14"
+                    },
+                    {
+                        "genreId": "34",
+                        "name": "Music",
+                        "url": "https://itunes.apple.com/us/genre/id34"
+                    }
+                ],
+                "url": "https://music.apple.com/us/album/sign-o-the-times-super-deluxe/1520460179?app=music"
+            },
+            {
+                "artistName": "Bright Eyes",
+                "id": "1516556868",
+                "name": "Down in the Weeds, Where the World Once Was",
+                "kind": "album",
+                "copyright": "℗ 2020 Dead Oceans",
+                "artistId": "6547614",
+                "artistUrl": "https://music.apple.com/us/artist/bright-eyes/6547614?app=music",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/db/17/cb/db17cb01-6baf-8c3b-511f-303d4895401b/656605151069.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "20",
+                        "name": "Alternative",
+                        "url": "https://itunes.apple.com/us/genre/id20"
+                    },
+                    {
+                        "genreId": "34",
+                        "name": "Music",
+                        "url": "https://itunes.apple.com/us/genre/id34"
+                    }
+                ],
+                "url": "https://music.apple.com/us/album/down-in-the-weeds-where-the-world-once-was/1516556868?app=music"
+            },
+            {
+                "artistName": "Ellie Goulding",
+                "id": "1514631992",
+                "releaseDate": "2020-07-17",
+                "name": "Brightest Blue",
+                "kind": "album",
+                "copyright": "A Polydor Records Release; ℗ 2020 Polydor Limited",
+                "artistId": "338264227",
+                "contentAdvisoryRating": "Explicit",
+                "artistUrl": "https://music.apple.com/us/artist/ellie-goulding/338264227?app=music",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/9f/28/55/9f28550a-7fe8-c8ef-fc4f-93fd06691ae2/20UMGIM23589.rgb.jpg/200x200bb.png",
+                "url": "https://music.apple.com/us/album/brightest-blue/1514631992?app=music"
+            },
+            {
+                "artistName": "Chris Tomlin",
+                "id": "1520065714",
+                "releaseDate": "2020-07-31",
+                "name": "Chris Tomlin & Friends",
+                "kind": "album",
+                "copyright": "Sparrow Records; ℗ 2020 Rivermusic Holdings, LP, under exclusive license to Capitol CMG, Inc.",
+                "artistId": "569510",
+                "artistUrl": "https://music.apple.com/us/artist/chris-tomlin/569510?app=music",
+                "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/4e/5f/66/4e5f66a5-ba02-313f-f50a-d3e35aeec864/20UMGIM52447.rgb.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "22",
+                        "name": "Christian & Gospel",
+                        "url": "https://itunes.apple.com/us/genre/id22"
+                    },
+                    {
+                        "genreId": "34",
+                        "name": "Music",
+                        "url": "https://itunes.apple.com/us/genre/id34"
+                    }
+                ],
+                "url": "https://music.apple.com/us/album/chris-tomlin-friends/1520065714?app=music"
+            },
+            {
+                "artistName": "Yusuf",
+                "id": "1513608539",
+                "releaseDate": "2020-09-18",
+                "name": "Tea for the Tillerman²",
+                "kind": "album",
+                "copyright": "A UMC release; ℗ 2020 Cat-O-Log Records, under exclusive licence to Universal Music Operations Limited",
+                "artistId": "257779222",
+                "artistUrl": "https://music.apple.com/us/artist/yusuf/257779222?app=music",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/60/d9/30/60d93007-01cc-628b-6a8e-1ea463feccd2/20UMGIM18115.rgb.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "10",
+                        "name": "Singer/Songwriter",
+                        "url": "https://itunes.apple.com/us/genre/id10"
+                    },
+                    {
+                        "genreId": "34",
+                        "name": "Music",
+                        "url": "https://itunes.apple.com/us/genre/id34"
+                    },
+                    {
+                        "genreId": "14",
+                        "name": "Pop",
+                        "url": "https://itunes.apple.com/us/genre/id14"
+                    },
+                    {
+                        "genreId": "21",
+                        "name": "Rock",
+                        "url": "https://itunes.apple.com/us/genre/id21"
+                    },
+                    {
+                        "genreId": "1160",
+                        "name": "Singer/Songwriter",
+                        "url": "https://itunes.apple.com/us/genre/id1160"
+                    }
+                ],
+                "url": "https://music.apple.com/us/album/tea-for-the-tillerman/1513608539?app=music"
+            },
+            {
+                "artistName": "Luke Bryan",
+                "id": "1497942465",
+                "releaseDate": "2020-04-24",
+                "name": "Born Here Live Here Die Here",
+                "kind": "album",
+                "copyright": "A Capitol Records Nashville Release; ℗ 2020 Row Crop Records, LLC, under exclusive license to UMG Recordings, Inc.",
+                "artistId": "20131064",
+                "artistUrl": "https://music.apple.com/us/artist/luke-bryan/20131064?app=music",
+                "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/b9/70/e2/b970e208-7e7b-9072-e0c2-7aa11d416dbb/20UMGIM08159.rgb.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "6",
+                        "name": "Country",
+                        "url": "https://itunes.apple.com/us/genre/id6"
+                    },
+                    {
+                        "genreId": "34",
+                        "name": "Music",
+                        "url": "https://itunes.apple.com/us/genre/id34"
+                    }
+                ],
+                "url": "https://music.apple.com/us/album/born-here-live-here-die-here/1497942465?app=music"
+            },
+            {
+                "artistName": "Various Artists",
+                "id": "1517262368",
+                "releaseDate": "2020-09-25",
+                "name": "Blue Note Re:imagined",
+                "kind": "album",
+                "copyright": "A Decca Records Release; ℗ 2020 Universal Music Operations Limited",
+                "artistId": "36270",
+                "artistUrl": "https://music.apple.com/us/artist/various-artists/36270?app=music",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/c9/dc/36/c9dc3616-f636-0c4d-5f20-0c5541a5f541/20UMGIM34503.rgb.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "11",
+                        "name": "Jazz",
+                        "url": "https://itunes.apple.com/us/genre/id11"
+                    },
+                    {
+                        "genreId": "34",
+                        "name": "Music",
+                        "url": "https://itunes.apple.com/us/genre/id34"
+                    }
+                ],
+                "url": "https://music.apple.com/us/album/blue-note-re-imagined/1517262368?app=music"
+            },
+            {
+                "artistName": "Caylee Hammack",
+                "id": "1500314986",
+                "releaseDate": "2020-08-14",
+                "name": "If It Wasn't For You",
+                "kind": "album",
+                "copyright": "A Capitol Records Nashville Release; ℗ 2020 UMG Recordings, Inc.",
+                "artistId": "1187636123",
+                "artistUrl": "https://music.apple.com/us/artist/caylee-hammack/1187636123?app=music",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/67/b5/d3/67b5d3f4-5f4e-8d59-a1c5-08b1a5010f83/20UMGIM06453.rgb.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "6",
+                        "name": "Country",
+                        "url": "https://itunes.apple.com/us/genre/id6"
+                    },
+                    {
+                        "genreId": "34",
+                        "name": "Music",
+                        "url": "https://itunes.apple.com/us/genre/id34"
+                    }
+                ],
+                "url": "https://music.apple.com/us/album/if-it-wasnt-for-you/1500314986?app=music"
+            },
+            {
+                "artistName": "Lindsay Ell",
+                "id": "1516255009",
+                "releaseDate": "2020-08-14",
+                "name": "heart theory",
+                "kind": "album",
+                "copyright": "℗ 2020 This Is Hit, Inc. d/b/a Stoney Creek Records",
+                "artistId": "309273947",
+                "artistUrl": "https://music.apple.com/us/artist/lindsay-ell/309273947?app=music",
+                "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/de/f2/7a/def27a65-0df8-f0a5-00c7-d1b8e9884186/4050538623550.jpg/200x200bb.png",
+                "genres": [
+                    {
+                        "genreId": "6",
+                        "name": "Country",
+                        "url": "https://itunes.apple.com/us/genre/id6"
+                    },
+                    {
+                        "genreId": "34",
+                        "name": "Music",
+                        "url": "https://itunes.apple.com/us/genre/id34"
+                    }
+                ],
+                "url": "https://music.apple.com/us/album/heart-theory/1516255009?app=music"
+            }
+        ]
+    }
+}
